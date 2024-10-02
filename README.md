@@ -7,7 +7,7 @@
 
 - 👯 I’m currently working as **a teacher in a private school in Kyiv**
 
-- 📫 How to reach me **sychnasta9@gmail.com**
+- 📫 How to reach me: **sychnasta9@gmail.com**
 
 - ⚡ Fun fact **I adore TTRPG games and happily spend a lot of time playing them**
 
@@ -23,5 +23,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/sovasemi606"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sovasemi606" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semi606&show_icons=true&locale=en&layout=compact" alt="semi606" /></p>
